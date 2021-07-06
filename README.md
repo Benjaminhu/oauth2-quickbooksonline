@@ -7,12 +7,12 @@ This package provides [QuickBooksOnline](https://www.developer.intuit.com/app/de
 To install, use composer:
 
 ```
-composer require benjaminhu/oauth2-quickbooksonline
+composer require liftkeeper/oauth2-quickbooksonline
 ```
 ## Usage
 
-Usage is the same as The League's OAuth client, using `\Benjaminhu\OAuth2\Client\Provider\QuickBooksOnline` as the provider.
+Usage is the same as The League's OAuth client, using `\Liftkeeper\OAuth2\Client\Provider\QuickBooksOnline` as the provider.
 
 ## License
 
-The MIT License (MIT). Please see [License File](https://github.com/Benjaminhu/oauth2-quickbooksonline/blob/master/LICENSE) for more information.
+The MIT License (MIT). Please see [License File](https://github.com/Liftkeeper/oauth2-quickbooksonline/blob/master/LICENSE) for more information.
