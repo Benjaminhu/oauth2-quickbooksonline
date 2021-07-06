@@ -1,5 +1,5 @@
 {
-    "name": "benjaminhu/oauth2-quickbooksonline",
+    "name": "liftkeeper/oauth2-quickbooksonline",
     "description": "QuickBooksOnline OAuth 2.0 Client Provider for The PHP League OAuth2-Client",
     "type": "library",
     "keywords": [
@@ -23,12 +23,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Benjaminhu\\OAuth2\\Client\\": "src/"
+            "Liftkeeper\\OAuth2\\Client\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Benjaminhu\\OAuth2\\Client\\Test\\": "test/src/"
+            "Liftkeeper\\OAuth2\\Client\\Test\\": "test/src/"
         }
     }
 }
